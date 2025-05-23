@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/JOYSAN121?v=4" width="120" style="border-radius:50%; box-shadow: 0 4px 24px #00ffe7, 0 1.5px 2.5px #ff00cc;" alt="Profile Picture">
+<img src="https://avatars.githubusercontent.com/u/JOYSAN121?v=4" width="120" alt="Profile Picture" />
 
 <h1>
   <span style="background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffe7, #fffb00, #ff5e62); -webkit-background-clip: text; color: transparent;">
