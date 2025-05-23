@@ -77,6 +77,9 @@ Frameworks & Tools: AWS, Git, MySQL, AI
 ---
 
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joysan121a&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
   
