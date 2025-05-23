@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joysanfernandes@gmail.com**
 
-- ⚡ Fun fact **A developer**
+- ⚡ Fun fact **A developer can make anything funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
