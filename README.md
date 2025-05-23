@@ -6,7 +6,7 @@
 
 <h1>
   <span style="background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffe7, #fffb00, #ff5e62); -webkit-background-clip: text; color: transparent;">
-    Hi there, I'm JOYSAN121! 👋🎮🚀
+    Hey there, I'm JOYSAN! 👋🎮🚀
   </span>
 </h1>
 
