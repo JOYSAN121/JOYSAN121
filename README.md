@@ -1,8 +1,4 @@
-<!-- Profile README for JOYSAN121 -->
-
 <div align="center">
-
-
 
 <h1>
   <span style="background: linear-gradient(90deg, #dc143c, #3333ff, #00ffe7, #fffb00, #ff5e62); -webkit-background-clip: text; color: transparent;">
@@ -15,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=10p0&color=FF00CC&center=true&vCenter=true&multiline=true&width=700&height=70&lines=BCA+Student+%7C+Experimenter+%7C+Tech+Enthusiast;Gaming+%E2%9A%94%EF%B8%8F+%7C+Loves+to+Try+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=10p0&color=DC143C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=BCA+Student+%7C+Experimenter+%7C+Tech+Enthusiast;Gaming+%E2%9A%94%EF%B8%8F+%7C+Loves+to+Try+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,8 +19,7 @@
 ## 💻 About Me
 
 - 🎓 **Currently studying BCA**
-- 🔬 **Experimenting with:**  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+- 🔬 **Experimenting with:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
@@ -39,8 +34,7 @@
   ![AI](https://img.shields.io/badge/-AI-00C7B7?logo=ai&logoColor=white)
 
 - 🎮 **Gamer at heart** | 🧪 **Love to experiment and learn by doing!**
-- 🌈 **I believe:**  
-  <span style="font-size:1.1em; background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffe7); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+- 🌈 **I believe:** <span style="font-size:1.1em; background: linear-gradient(90deg, #dc143c, #3333ff, #00ffe7); -webkit-background-clip: text; color: transparent; font-weight: bold;">
     “Why fit in, when you were born to stand out?!”
   </span>  
   <br>
@@ -64,27 +58,3 @@
 ```yaml
 Languages: Java, Python, C, C#, HTML, CSS, JavaScript, PHP, R, SQL
 Frameworks & Tools: AWS, Git, MySQL, AI
-```
-
----
-
-## 🎨 Vibe Check
-
-![Gradient Bar](https://img.shields.io/badge/Vibe-SUPERB-GRADIENT?style=for-the-badge&logo=rainbow&labelColor=ff00cc&color=00ffe7)
-![Experimental](https://img.shields.io/badge/Always%20Exploring-%F0%9F%94%8E-fffb00?style=for-the-badge)
-![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-3333ff?style=for-the-badge)
-
----
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joysan121&layout=donut&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
-  
-  <br>
-  
-  <b>Let’s Level Up Together! 🚀</b>
-  
-</div>
